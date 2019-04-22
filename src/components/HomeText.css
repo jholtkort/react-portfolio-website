@@ -1,0 +1,12 @@
+.home-text {
+  margin-top: 25vh;
+  color: white;
+  width: 100vw;
+  background: rgba(128, 128, 128, 0.3);
+  font-family: "Permanent Marker", cursive;
+  padding: 10px;
+}
+
+a {
+  color: inherit;
+}
