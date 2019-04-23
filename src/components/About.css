@@ -1,12 +1,8 @@
-.home-text {
-  margin-top: 25vh;
+.about-text {
+  margin-top: 5vh;
   color: white;
   width: 100vw;
   background: rgba(128, 128, 128, 0.5);
   font-family: "Merriweather", serif;
   padding: 10px;
-}
-
-a {
-  color: inherit;
 }
