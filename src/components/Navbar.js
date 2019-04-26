@@ -1,5 +1,6 @@
 import React from "react";
 
+import Pdf from "../static/josh-holtkort-resume.pdf";
 import "./Navbar.css";
 
 const Navbar = () => {
@@ -39,7 +40,7 @@ const Navbar = () => {
               </a>
             </li>
             <li className="nav-item m-1 m-xl-5">
-              <a className="nav-link" href="../static/josh-holtkort-resume.pdf">
+              <a className="nav-link" href={Pdf} target="_blank">
                 Resume
               </a>
             </li>
