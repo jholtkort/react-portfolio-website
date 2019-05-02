@@ -1,8 +1,10 @@
 .about-text {
-  margin-top: 5vh;
-  color: white;
-  background: rgba(128, 128, 128, 0.9);
+  /* color: white; */
+  /* background: rgba(128, 128, 128, 0.9); */
   font-family: "Merriweather", serif;
-  padding: 10px;
-  border-radius: 10px;
+  padding-top: 6vh;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
 }
