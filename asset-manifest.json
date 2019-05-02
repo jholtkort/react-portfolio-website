@@ -1,15 +1,18 @@
 {
-  "main.css": "/react-portfolio-website/static/css/main.808fab81.chunk.css",
-  "main.js": "/react-portfolio-website/static/js/main.b6d4f6a6.chunk.js",
-  "main.js.map": "/react-portfolio-website/static/js/main.b6d4f6a6.chunk.js.map",
-  "runtime~main.js": "/react-portfolio-website/static/js/runtime~main.fe38fcb3.js",
-  "runtime~main.js.map": "/react-portfolio-website/static/js/runtime~main.fe38fcb3.js.map",
-  "static/js/2.8ed07c59.chunk.js": "/react-portfolio-website/static/js/2.8ed07c59.chunk.js",
-  "static/js/2.8ed07c59.chunk.js.map": "/react-portfolio-website/static/js/2.8ed07c59.chunk.js.map",
-  "index.html": "/react-portfolio-website/index.html",
-  "precache-manifest.5608af5c0533197c31bd69076927f231.js": "/react-portfolio-website/precache-manifest.5608af5c0533197c31bd69076927f231.js",
-  "service-worker.js": "/react-portfolio-website/service-worker.js",
-  "static/css/main.808fab81.chunk.css.map": "/react-portfolio-website/static/css/main.808fab81.chunk.css.map",
-  "static/media/josh-holtkort-resume.pdf": "/react-portfolio-website/static/media/josh-holtkort-resume.2f1680ac.pdf",
-  "static/media/weather-app-project.png": "/react-portfolio-website/static/media/weather-app-project.9866e1ee.png"
+  "files": {
+    "main.css": "/react-portfolio-website/static/css/main.f167616b.chunk.css",
+    "main.js": "/react-portfolio-website/static/js/main.8ec008ea.chunk.js",
+    "main.js.map": "/react-portfolio-website/static/js/main.8ec008ea.chunk.js.map",
+    "runtime~main.js": "/react-portfolio-website/static/js/runtime~main.fe38fcb3.js",
+    "runtime~main.js.map": "/react-portfolio-website/static/js/runtime~main.fe38fcb3.js.map",
+    "static/js/2.a68ccf2f.chunk.js": "/react-portfolio-website/static/js/2.a68ccf2f.chunk.js",
+    "static/js/2.a68ccf2f.chunk.js.map": "/react-portfolio-website/static/js/2.a68ccf2f.chunk.js.map",
+    "index.html": "/react-portfolio-website/index.html",
+    "precache-manifest.c6432a0a395565e6c6696a298b96c1bb.js": "/react-portfolio-website/precache-manifest.c6432a0a395565e6c6696a298b96c1bb.js",
+    "service-worker.js": "/react-portfolio-website/service-worker.js",
+    "static/css/main.f167616b.chunk.css.map": "/react-portfolio-website/static/css/main.f167616b.chunk.css.map",
+    "static/media/josh-holtkort-resume.pdf": "/react-portfolio-website/static/media/josh-holtkort-resume.2f1680ac.pdf",
+    "static/media/reactive-webpage-project.png": "/react-portfolio-website/static/media/reactive-webpage-project.d0298431.png",
+    "static/media/weather-app-project.png": "/react-portfolio-website/static/media/weather-app-project.9866e1ee.png"
+  }
 }
