@@ -25,22 +25,38 @@ const Navbar = () => {
 
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav mr-auto">
-              <li className="nav-item active">
+              <li
+                className="nav-item active"
+                data-toggle="collapse"
+                data-target=".navbar-collapse.show"
+              >
                 <a className="nav-link mx-1 mx-xl-5" href="#home">
                   Home <span className="sr-only">(current)</span>
                 </a>
               </li>
-              <li className="nav-item mx-1 mx-xl-5">
+              <li
+                className="nav-item mx-1 mx-xl-5"
+                data-toggle="collapse"
+                data-target=".navbar-collapse.show"
+              >
                 <a className="nav-link" href="#about">
                   About
                 </a>
               </li>
-              <li className="nav-item mx-1 mx-xl-5">
+              <li
+                className="nav-item mx-1 mx-xl-5"
+                data-toggle="collapse"
+                data-target=".navbar-collapse.show"
+              >
                 <a className="nav-link" href="#projects">
                   Projects
                 </a>
               </li>
-              <li className="nav-item mx-1 mx-xl-5">
+              <li
+                className="nav-item mx-1 mx-xl-5"
+                data-toggle="collapse"
+                data-target=".navbar-collapse.show"
+              >
                 <a className="nav-link" href={Pdf} target="_blank">
                   Resume
                 </a>
