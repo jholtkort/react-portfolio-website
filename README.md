@@ -1,5 +1,5 @@
 # Portfolio Website
 
-## Build using React and hosted using GitHub pages. Made use of Bootstrap 4 to create a responsive layout. Also included Font Awesome icons and Google Fonts.
+## Built using React and hosted using GitHub pages using a custom domain name. Utilized Bootstrap 4’s flexbox and grid features to create a responsive layout. Also included Font Awesome icons and Google Fonts.
 
-## Included a list of projects that highligh my skills.
+## Included a list of projects that highlight my skills.
