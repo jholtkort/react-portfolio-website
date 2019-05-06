@@ -43,9 +43,7 @@ const About = () => {
               </ul>
             </h5>
             <h5 className="mt-3">
-              This has given me experience using React, Redux, JavaScript,
-              HTML5, CSS3, Bootstrap 3 and 4, jQuery, and SASS. I encourage you
-              to visit the{" "}
+              I encourage you to visit the{" "}
               <u>
                 <a href="#projects">Projects</a>
               </u>{" "}

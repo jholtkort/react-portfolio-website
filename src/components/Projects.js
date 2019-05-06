@@ -1,6 +1,5 @@
 import React from "react";
-import weatherApp from "../static/weather-app-project.png";
-import responsiveWebpage from "../static/reactive-webpage-project.png";
+
 import "./Projects.css";
 
 const Projects = () => {
@@ -15,9 +14,9 @@ const Projects = () => {
             <div className="row justify-content-around">
               <div className="card col-10 col-lg-5 my-5">
                 <img
-                  src={weatherApp}
+                  src="https://images.unsplash.com/photo-1547845662-08919068676f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1368&q=80"
                   alt="weather app"
-                  className="card-img-top"
+                  className="card-img-top my-3"
                 />
                 <h5>Weather App</h5>
                 <p className="card-text">
@@ -25,43 +24,48 @@ const Projects = () => {
                   Open Weather Map API, and renders a background based off of
                   the received data.
                 </p>
-                <a
-                  className="btn btn-primary"
-                  href="https://jholtkort.github.io/weather-app/"
-                >
-                  Weather App Webpage
-                </a>
-                <a
-                  className="mr-5"
-                  href="https://github.com/jholtkort/weather-app"
-                >
-                  <i className="fab fa-github fa-3x" />
-                </a>
+                <div className="row justify-content-around mb-3">
+                  <a
+                    className="btn btn-primary btn-lg"
+                    href="https://jholtkort.github.io/weather-app/"
+                  >
+                    Weather App Webpage
+                  </a>
+                  <a
+                    className="mr-5"
+                    href="https://github.com/jholtkort/weather-app"
+                  >
+                    <i className="fab fa-github fa-3x" />
+                  </a>
+                </div>
               </div>
 
               <div className="card col-10 col-lg-5 my-5">
                 <img
-                  src={responsiveWebpage}
+                  src="https://images.unsplash.com/photo-1548360247-d7f05b9b4865?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
                   alt="weather app"
-                  className="card-img-top"
+                  className="card-img-top my-3"
                 />
                 <h5>Reactive Webpage</h5>
                 <p className="card-text">
                   React application that uses Bootstrap 4 to create a responsive
                   webpage layout.
                 </p>
-                <a
-                  className="btn btn-primary"
-                  href="https://jholtkort.github.io/responsive-webpage/"
-                >
-                  Weather App Webpage
-                </a>
-                <a
-                  className="mr-5"
-                  href="https://github.com/jholtkort/responsive-webpage"
-                >
-                  <i className="fab fa-github fa-3x" />
-                </a>
+
+                <div className="row justify-content-around mb-3">
+                  <a
+                    className="btn btn-primary btn-lg"
+                    href="https://jholtkort.github.io/responsive-webpage/"
+                  >
+                    Responsive Webpage
+                  </a>
+                  <a
+                    className="mr-5"
+                    href="https://github.com/jholtkort/responsive-webpage"
+                  >
+                    <i className="fab fa-github fa-3x" />
+                  </a>
+                </div>
               </div>
             </div>
           </div>
