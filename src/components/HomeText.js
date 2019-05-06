@@ -10,9 +10,9 @@ const HomeText = () => {
           <div className="col-10 home-text">
             <h1>Welcome to the website of Josh Holtkort</h1>
             <h5 className="my-3">
-              I am a software developer based in Austin, TX, and am passionate
-              about creating responsive software and web applications that solve
-              the biggest needs of my clients.
+              I am a software developer based in Austin, Texas, and am
+              passionate about creating responsive software and web applications
+              that solve the greatest needs of my clients.
             </h5>
             <div className="icons">
               <a className="mr-5" href="https://github.com/jholtkort">

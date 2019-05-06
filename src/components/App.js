@@ -5,6 +5,7 @@ import Navbar from "./Navbar";
 import HomeText from "./HomeText";
 import About from "./About";
 import Projects from "./Projects";
+import Skills from "./Skills";
 
 class App extends Component {
   render() {
@@ -13,6 +14,7 @@ class App extends Component {
         <Navbar />
         <HomeText />
         <About />
+        <Skills />
         <Projects />
       </div>
     );

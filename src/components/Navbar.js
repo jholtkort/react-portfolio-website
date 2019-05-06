@@ -48,6 +48,15 @@ const Navbar = () => {
                 data-toggle="collapse"
                 data-target=".navbar-collapse.show"
               >
+                <a className="nav-link" href="#skills">
+                  Skills
+                </a>
+              </li>
+              <li
+                className="nav-item mx-1 mx-xl-5"
+                data-toggle="collapse"
+                data-target=".navbar-collapse.show"
+              >
                 <a className="nav-link" href="#projects">
                   Projects
                 </a>
