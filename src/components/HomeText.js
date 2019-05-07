@@ -14,11 +14,14 @@ const HomeText = () => {
               passionate about creating responsive software and web applications
               that solve the greatest needs of my clients.
             </h5>
-            <div className="icons">
-              <a className="mr-5" href="https://github.com/jholtkort">
+            <div className="row icons justify-content-center">
+              <a className="mr-5 my-2" href="https://github.com/jholtkort">
                 <i className="fab fa-github fa-3x" />
               </a>
-              <a href="https://www.linkedin.com/in/joshholtkort">
+              <a
+                className="ml-5 my-2"
+                href="https://www.linkedin.com/in/joshholtkort"
+              >
                 <i className="fab fa-linkedin-in fa-3x" />
               </a>
             </div>
