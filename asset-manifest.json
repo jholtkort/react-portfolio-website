@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a324788.chunk.css",
-    "main.js": "/static/js/main.ce458fad.chunk.js",
-    "main.js.map": "/static/js/main.ce458fad.chunk.js.map",
+    "main.css": "/static/css/main.4b1a71ae.chunk.css",
+    "main.js": "/static/js/main.93ea9dd3.chunk.js",
+    "main.js.map": "/static/js/main.93ea9dd3.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.6efc73d3.chunk.js": "/static/js/2.6efc73d3.chunk.js",
     "static/js/2.6efc73d3.chunk.js.map": "/static/js/2.6efc73d3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.64d31d1b8a878cc2d66a1e1b15682e83.js": "/precache-manifest.64d31d1b8a878cc2d66a1e1b15682e83.js",
+    "precache-manifest.d0d23a704df16bdb5f756085a2d0c284.js": "/precache-manifest.d0d23a704df16bdb5f756085a2d0c284.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0a324788.chunk.css.map": "/static/css/main.0a324788.chunk.css.map",
-    "static/media/josh-holtkort-resume.pdf": "/static/media/josh-holtkort-resume.afc6a3a2.pdf",
-    "static/media/reactive-webpage-project.png": "/static/media/reactive-webpage-project.d0298431.png",
-    "static/media/weather-app-project.png": "/static/media/weather-app-project.9866e1ee.png"
+    "static/css/main.4b1a71ae.chunk.css.map": "/static/css/main.4b1a71ae.chunk.css.map",
+    "static/media/josh-holtkort-resume.pdf": "/static/media/josh-holtkort-resume.afc6a3a2.pdf"
   }
 }
