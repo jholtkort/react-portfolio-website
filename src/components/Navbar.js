@@ -66,7 +66,12 @@ const Navbar = () => {
                 data-toggle="collapse"
                 data-target=".navbar-collapse.show"
               >
-                <a className="nav-link" href={Pdf} target="_blank">
+                <a
+                  className="nav-link"
+                  href={Pdf}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   Resume
                 </a>
               </li>
