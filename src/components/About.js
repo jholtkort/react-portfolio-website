@@ -18,8 +18,8 @@ const About = () => {
             <h5 className="mt-3">
               While working as a Cost Estimator for two and a half years at
               AECOM Hunt, I developed an interest in software development and
-              decided that I wanted to pursue a career as a software developer.
-              Since that time, I have earned the following qualifications:
+              decided that I wanted to pursue a career in that field. Since that
+              time, I have earned the following qualifications:
               <ul>
                 <li className="mt-3 ml-3">
                   Responsive Web Design Certification from freeCodeCamp

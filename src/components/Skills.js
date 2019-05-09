@@ -11,12 +11,15 @@ const Skills = () => {
             <h1 className="text-center">My Skills</h1>
             <hr />
             <h5 className="my-3">
-              I have interest and experience in the following technologies:
+              I have knowledge and experience in the following technologies:
             </h5>
 
             <ul>
               <li className="my-4">
                 <h5>JavaScript</h5>
+              </li>
+              <li className="mb-4">
+                <h5>ES6</h5>
               </li>
               <li className="mb-4">
                 <h5>React</h5>
