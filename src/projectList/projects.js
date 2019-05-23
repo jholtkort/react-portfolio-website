@@ -31,6 +31,17 @@ export const projects = [
       "React application that uses Bootstrap 4 to create a responsive webpage layout.",
     websiteLink: "https://jholtkort.github.io/responsive-webpage/",
     gitHubLink: "https://github.com/jholtkort/responsive-webpage"
+  },
+
+  {
+    id: "4",
+    image:
+      "https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+    title: "Random Quote Machine",
+    description:
+      "React application that displays quotes retreives JSON data from an API using Axios. Responsive layout using Bootstrap 4.",
+    websiteLink: "https://jholtkort.github.io/random-quote-machine/",
+    gitHubLink: "https://github.com/jholtkort/random-quote-machine"
   }
 
   // Blank object for future projects
