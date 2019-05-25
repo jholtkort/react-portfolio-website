@@ -42,6 +42,17 @@ export const projects = [
       "React application that displays quotes retreives JSON data from an API using Axios. Responsive layout using Bootstrap 4.",
     websiteLink: "https://jholtkort.github.io/random-quote-machine/",
     gitHubLink: "https://github.com/jholtkort/random-quote-machine"
+  },
+
+  {
+    id: "5",
+    image:
+      "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+    title: "Markdown Previewer",
+    description:
+      "React application that converts markdown into formatted text.",
+    websiteLink: "https://jholtkort.github.io/markdown-previewer/",
+    gitHubLink: "https://github.com/jholtkort/markdown-previewer"
   }
 
   // Blank object for future projects
