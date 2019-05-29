@@ -53,6 +53,17 @@ export const projects = [
       "React application that converts markdown into formatted text.",
     websiteLink: "https://jholtkort.github.io/markdown-previewer/",
     gitHubLink: "https://github.com/jholtkort/markdown-previewer"
+  },
+
+  {
+    id: "6",
+    image:
+      "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80",
+    title: "jQuery To Do",
+    description:
+      "jQuery application that lets you add, delete, and complete to dos",
+    websiteLink: "https://jholtkort.github.io/to-do-jquery/",
+    gitHubLink: "https://github.com/jholtkort/to-do-jquery"
   }
 
   // Blank object for future projects
